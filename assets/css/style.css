@@ -57,6 +57,7 @@ nav a {
 
 nav a:hover {
     color: #FFB400;
+    cursor: pointer;
 }
 
 #banner {
@@ -139,6 +140,7 @@ img {
 
 img.model:hover {
     box-shadow: 0 0 1em black;
+    cursor: pointer;
 }
 
 .grid1 {
